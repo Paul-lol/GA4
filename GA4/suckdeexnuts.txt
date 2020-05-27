@@ -1,0 +1,11 @@
+Number of books : 5, Table size : 7, Prime : 5
+
+data structure found at : 2 after 0 iteration
+Current values in the hash table:
+computer networks at: 1
+data structure at: 2
+algorithms at: 3
+machine learning at: 4
+numerical analysis at: 6
+literature does not exist; needed 2 iterations
+algorithms found at : 3 after 0 iteration
